@@ -1,0 +1,2 @@
+# Equal
+Sobrecargar Operador Equal
